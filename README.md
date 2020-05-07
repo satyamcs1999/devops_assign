@@ -1,1 +1,1 @@
-This repository consists of two branches, namely master and dev1 , the master branch consist of web page code in pure HTML, whereas in case of dev1 branch, it consist of code in HTML and consist of CSS for better look
+The master branch consist of web page code in pure HTML
